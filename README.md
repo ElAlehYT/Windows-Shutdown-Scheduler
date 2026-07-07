@@ -53,7 +53,7 @@ The app runs fine without them too — those specific features just won't be ava
 
 ### 📄 License
 
-This project is distributed under a **Personal Use Only** license — see [LICENSE](LICENSE) for details. Viewing and personal use are permitted; copying, redistributing, modifying, or commercial use are **not** allowed without written permission from the author.
+See [LICENSE](LICENSE) for details. This project uses the [PolyForm Strict License 1.0.0](https://polyformproject.org/licenses/strict/1.0.0). You may view and use the software for personal, noncommercial purposes; you **may not** copy, redistribute, modify, create derivative works from it, or use it commercially without written permission from the author.
 
 ### 👤 Author
 
@@ -107,7 +107,7 @@ La app funciona igual sin ellas, simplemente esas funciones concretas no estará
 
 ### 📄 Licencia
 
-Este proyecto se distribuye bajo una licencia de **uso personal únicamente** — consulta [LICENSE](LICENSE) para más detalles. Se permite ver y usar el código de forma personal; **no** está permitido copiarlo, redistribuirlo, modificarlo ni usarlo con fines comerciales sin permiso escrito del autor.
+Consulta [LICENSE](LICENSE) para más detalles. Este proyecto usa la [PolyForm Strict License 1.0.0](https://polyformproject.org/licenses/strict/1.0.0). Se permite ver y usar el software de forma personal y no comercial; **no** está permitido copiarlo, redistribuirlo, modificarlo, crear obras derivadas ni usarlo con fines comerciales sin permiso escrito del autor.
 
 ### 👤 Autor
 
