@@ -7,7 +7,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-informational)
 ![License](https://img.shields.io/badge/License-Personal%20Use%20Only-red)
 
-** Navegation 🌐 [English](#english) | [Español](#español)**
+**Navegation 🌐 [English](#english) | [Español](#español)**
 
 <a name="english"></a>
 ## 🇬🇧 English
