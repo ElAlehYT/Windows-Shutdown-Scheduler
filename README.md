@@ -35,7 +35,7 @@ Grab the latest version directly from [**Releases**](https://github.com/ElAlehYT
 
 ### Something not working?
 
-If a feature doesn't work (tray icon, notifications, or the download-monitor option), it's likely running from source without the optional libraries. Install them with:
+If a feature doesn't work (tray icon, notifications, or the download-monitor option), it's likely running .exe without the libraries (Usually Installed in Windows). Install them with:
 
 ```bash
 pip install pystray pillow win10toast psutil
@@ -44,8 +44,6 @@ pip install pystray pillow win10toast psutil
 - `pystray` + `pillow` → system tray icon
 - `win10toast` → native toast notifications
 - `psutil` → network monitoring for the "shut down when a download finishes" feature
-
-The app runs fine without them too — those specific features just won't be available.
 
 ### 📸 Screenshots
 
@@ -93,7 +91,7 @@ Descarga la última versión desde [**Releases**](https://github.com/ElAlehYT/Wi
 
 ### ¿Algo no funciona?
 
-Si alguna función no funciona (icono de bandeja, notificaciones, o la opción de apagado por descarga), probablemente estás ejecutando el código fuente sin las librerías opcionales. Instálalas con:
+Si alguna función no funciona (icono de bandeja, notificaciones, o la opción de apagado por descarga), probablemente estás ejecutando el .exe sin las librerías (Suelen estan ya instaladas en Windows). Instálalas con:
 
 ```bash
 pip install pystray pillow win10toast psutil
