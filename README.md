@@ -3,7 +3,7 @@
 [![Downloads](https://img.shields.io/github/downloads/ElAlehYT/Windows-Shutdown-Scheduler/total?color=blue&label=Downloads)](https://github.com/ElAlehYT/Windows-Shutdown-Scheduler/releases)
 [![Latest Release](https://img.shields.io/github/v/release/ElAlehYT/Windows-Shutdown-Scheduler?label=latest%20release&color=success)](https://github.com/ElAlehYT/Windows-Shutdown-Scheduler/releases/latest)
 [![Stars](https://img.shields.io/github/stars/ElAlehYT/Windows-Shutdown-Scheduler?style=social)](https://github.com/ElAlehYT/Windows-Shutdown-Scheduler/stargazers)
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3.x-purple)
 ![Platform](https://img.shields.io/badge/Platform-Windows-informational)
 [![License](https://img.shields.io/badge/License-PolyForm%20Strict%201.0.0-yellow)](https://polyformproject.org/licenses/strict/1.0.0)
 
